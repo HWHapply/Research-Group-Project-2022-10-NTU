@@ -8,4 +8,4 @@ Here we obtained a gene expression dataset from a published study. The dataset c
 The gist of this project is to find the genes differentially expressed along with the metastasis pathway and interrogate their function which equips CTC capability to overcome the complex microenvironment and finally colonize successfully.
 
 ## Code discription: 
-A methods to identify the genes differentially expressed in tumor cells among four vascular sites. The significant are identified using decision tree, random forest, XGBoost, and SVM with RFECV.
+Methods to identify the genes differentially expressed in tumor cells among four vascular sites. The significant are identified using decision tree, random forest, XGBoost, and SVM with RFECV.
